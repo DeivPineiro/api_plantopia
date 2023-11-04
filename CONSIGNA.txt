@@ -60,7 +60,7 @@ Tu tarea es diseñar e implementar el sistema que permita registrar las votacion
 
    OK=====> - Las puntuaciones deben estar entre 1 y 10.
 
-    - Deberá haber validaciones para asegurarse de que los jueces y juegos existan al registrar una votación.
+   OK=====> - Deberá haber validaciones para asegurarse de que los jueces y juegos existan al registrar una votación.
 
    OK=====> - Puede modificar cualquier entidad para lograr el objetivo.
 
