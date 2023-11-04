@@ -1,0 +1,21 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "Trabajo practico para el profe",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "server": "cls && nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Piñeiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "mongodb": "^6.2.0",
+    "yup": "^1.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
