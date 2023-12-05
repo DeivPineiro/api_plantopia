@@ -1,0 +1,1795 @@
+{
+  "account": {
+    "-Nkbe0gBAymw0t6iIX5p": {
+      "email": "david.pineiro@davinci.edu.ar",
+      "password": "$2b$10$KGmYzyq6sU1rmN7hAFcYH.xsDWqcVdD/2V/9jHy24uPKzo6QG8j6G"
+    }
+  },
+  "plague": {
+    "-Njd0DfSUHenB1Z5Xl3Y": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Fruta",
+      "nombre_cientifico": "Drosophila melanogaster",
+      "solucion": "Utilizar trampas de feromonas, mantener la higiene y aplicar insecticidas específicos."
+    },
+    "-Njd0N6xm3dT8DL4MPCs": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Tomate",
+      "nombre_cientifico": "Helicoverpa zea",
+      "solucion": "Eliminar manualmente, aplicar insecticidas orgánicos o utilizar parasitoides naturales."
+    },
+    "-Njd1FXatiuFW06eKphn": {
+      "imagen": "pulgon.png",
+      "nombre": "Pulgón Blanco",
+      "nombre_cientifico": "Aphis fabae",
+      "solucion": "Rociar con agua jabonosa, introducir depredadores naturales como mariquitas o usar insecticidas específicos."
+    },
+    "-Njd3Ik7cWhq2aGddYds": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano Cogollero",
+      "nombre_cientifico": "Spodoptera frugiperda",
+      "solucion": "Aplicar insecticidas biológicos, eliminar larvas manualmente o utilizar cultivos resistentes."
+    },
+    "-Njd3PDVv8PtZy3k-FIB": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano Blanco",
+      "nombre_cientifico": "Mythimna unipuncta",
+      "solucion": "Utilizar trampas de luz, aplicar insecticidas específicos o utilizar nematodos beneficiosos."
+    },
+    "-Njd3dMUf22ns9fTVjNm": {
+      "imagen": "hongo.png",
+      "nombre": "Mildiu",
+      "nombre_cientifico": "Peronospora spp.",
+      "solucion": "Aplicar fungicidas específicos, mejorar la ventilación y evitar el exceso de humedad."
+    },
+    "-Njd3k-civoszmNlFu9V": {
+      "imagen": "hongo.png",
+      "nombre": "Oídio",
+      "nombre_cientifico": "Erysiphales spp.",
+      "solucion": "Aplicar fungicidas a base de azufre, mejorar la circulación del aire y evitar el riego excesivo."
+    },
+    "-Njd3rzai-zghTqeFUiX": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Col",
+      "nombre_cientifico": "Pieris brassicae",
+      "solucion": "Eliminar larvas manualmente, utilizar redes de protección o aplicar insecticidas específicos."
+    },
+    "-Njd498WJh3yiMxloRw1": {
+      "imagen": "trips.png",
+      "nombre": "Trips de la Flor",
+      "nombre_cientifico": "Frankliniella occidentalis",
+      "solucion": "Utilizar trampas adhesivas, aplicar insecticidas específicos o introducir insectos beneficiosos."
+    },
+    "-Njd4FjjOu9itKWULk1O": {
+      "imagen": "pulgon.png",
+      "nombre": "Pulgones",
+      "nombre_cientifico": "Aphidoidea",
+      "solucion": "Rociar con agua, utilizar insecticidas naturales o introducir depredadores como coccinelidos."
+    },
+    "-Njd4Oeq1JSHXdmbqR5M": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Zanahoria",
+      "nombre_cientifico": "Psila rosae",
+      "solucion": "Utilizar trampas amarillas, aplicar insecticidas específicos o practicar la rotación de cultivos."
+    },
+    "-Njd4wWwXNWTZ7yiuUkE": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano Soldado",
+      "nombre_cientifico": "Podisus maculiventris",
+      "solucion": "Fomentar la presencia de insectos depredadores, utilizar insecticidas naturales o aplicar técnicas de control biológico."
+    },
+    "-Njd5103uzFMcKzjnfJR": {
+      "imagen": "pulgon.png",
+      "nombre": "Pulgón Amarillo",
+      "nombre_cientifico": "Myzus persicae",
+      "solucion": "Rociar con agua jabonosa, introducir insectos depredadores o utilizar insecticidas específicos."
+    },
+    "-Njd5AiuHx5MVBEz7_b1": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca Blanca",
+      "nombre_cientifico": "Bemisia tabaci",
+      "solucion": "Utilizar trampas adhesivas, aplicar insecticidas específicos o utilizar insectos beneficiosos."
+    },
+    "-Njd5GkABb5dx6aPbmcP": {
+      "imagen": "acaro.png",
+      "nombre": "Ácaros",
+      "nombre_cientifico": "Tetranychidae",
+      "solucion": "Rociar con agua, utilizar insecticidas naturales o aplicar aceites hortícolas."
+    },
+    "-Njd5LdfWfbQPRgem9MP": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Duraznero",
+      "nombre_cientifico": "Grapholita funebrana",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos o utilizar feromonas para el control."
+    },
+    "-Njd5Vd0mRHmmQlZCbca": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga Cogollera",
+      "nombre_cientifico": "Spodoptera exigua",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar cultivos resistentes."
+    },
+    "-Njd5bHW_axDIJ_Q3LXb": {
+      "imagen": "pulgon.png",
+      "nombre": "Áfidos",
+      "nombre_cientifico": "Aphididae",
+      "solucion": "Rociar con agua, utilizar insecticidas naturales o introducir insectos depredadores."
+    },
+    "-Njd6AKbDc1AMwUBkOcM": {
+      "imagen": "escarabajo.png",
+      "nombre": "Escarabajo del Arroz",
+      "nombre_cientifico": "Oryzaephilus surinamensis",
+      "solucion": "Almacenar el arroz en condiciones secas y frescas, utilizar bolsas herméticas o aplicar insecticidas específicos."
+    },
+    "-Njd6hGOUK6VcqFNqhf4": {
+      "imagen": "gusano.png",
+      "nombre": "Barrenador del Tallo",
+      "nombre_cientifico": "Chilo partellus",
+      "solucion": "Eliminar plantas afectadas, aplicar insecticidas biológicos o utilizar feromonas para el control."
+    },
+    "-Njd6m28hmNGVu0lGIVw": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Hoja",
+      "nombre_cientifico": "Noctuidae",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas específicos o utilizar cultivos resistentes."
+    },
+    "-Njd6r1-WK48E8rX3Sp-": {
+      "imagen": "escarabajo.png",
+      "nombre": "Escarabajos",
+      "nombre_cientifico": "Coleoptera",
+      "solucion": "Eliminar manualmente, aplicar insecticidas naturales o utilizar trampas específicas."
+    },
+    "-Njd6veUZqdPMsm_4yrc": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Hoja",
+      "nombre_cientifico": "Spodoptera spp.",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar cultivos resistentes."
+    },
+    "-Njd7-PjkQdPa4gQsyw2": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Semilla",
+      "nombre_cientifico": "Cydia pomonella",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos o utilizar feromonas para el control."
+    },
+    "-Njd74pbIkmc0_PT87Bv": {
+      "imagen": "gusano.png",
+      "nombre": "Gusanos Cortadores",
+      "nombre_cientifico": "Noctuidae",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar cultivos resistentes."
+    },
+    "-Njd7SyatuTvpvL6mzp_": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Espárrago",
+      "nombre_cientifico": "Virbia aurantiaca",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar cultivos resistentes."
+    },
+    "-Njd7WmrVJDUCGUm3Sli": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Col",
+      "nombre_cientifico": "Pieris brassicae",
+      "solucion": "Eliminar larvas manualmente, utilizar redes de protección o aplicar insecticidas específicos."
+    },
+    "-Njd7ahLnM7uxLa2G-wj": {
+      "imagen": "gusano.png",
+      "nombre": "Gusanos de la Semilla",
+      "nombre_cientifico": "Cydia pomonella",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos o utilizar feromonas para el control."
+    },
+    "-Njd7gVWEXcHjOtXbcVH": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Maíz",
+      "nombre_cientifico": "Helicoverpa zea",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar cultivos resistentes."
+    },
+    "-Njd7q8ibOKKfUl9cHJr": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Mazorca",
+      "nombre_cientifico": "Helicoverpa zea",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar cultivos resistentes."
+    },
+    "-Njd7tgrBtuH6yqDRKXL": {
+      "imagen": "pulgon.png",
+      "nombre": "Pulgón Negro",
+      "nombre_cientifico": "Aphis spp.",
+      "solucion": "Rociar con agua jabonosa, introducir depredadores naturales como mariquitas o usar insecticidas específicos."
+    },
+    "-Njd7yFSbx-GbZf079-Y": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Manzana",
+      "nombre_cientifico": "Cydia pomonella",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos o utilizar feromonas para el control."
+    },
+    "-Njd82Sq6ca0X9_1-haI": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de los Cítricos",
+      "nombre_cientifico": "Tephritidae citri",
+      "solucion": "Utilizar trampas de feromonas y pesticidas para el control de moscas."
+    },
+    "-Njd87Ex-s0JxZvrtJY0": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Mango",
+      "nombre_cientifico": "Noctuidae mangiferae",
+      "solucion": "Eliminar frutas infectadas y aplicar insecticidas adecuados."
+    },
+    "-Njd8CC4dYMqC3Mk8inm": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Legumbre",
+      "nombre_cientifico": "Noctuidae leguminis",
+      "solucion": "Utilizar métodos orgánicos como el control biológico con depredadores naturales."
+    },
+    "-Njd8GkCqyObU-mKYRRf": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de los Cítricos",
+      "nombre_cientifico": "Gelechiidae citricola",
+      "solucion": "Aplicar insecticidas específicos para gusanos en cítricos."
+    },
+    "-Njd8Lpwamd5TA5QiJNC": {
+      "imagen": "pulgon.png",
+      "nombre": "Pulgón de la Manzana",
+      "nombre_cientifico": "Aphididae malus",
+      "solucion": "Utilizar insecticidas suaves y fomentar la presencia de depredadores naturales."
+    },
+    "-Njd8RQS8Fs5LAT4Tx5u": {
+      "imagen": "avispa.png",
+      "nombre": "Avispas de Higo",
+      "nombre_cientifico": "Vespidae ficus",
+      "solucion": "Eliminar los nidos y aplicar insecticidas si es necesario."
+    },
+    "-Njd8ZL35QjSpryp8DP1": {
+      "imagen": "gorgojo.png",
+      "nombre": "Gorgojo de la Higuera",
+      "nombre_cientifico": "Curculionidae ficus",
+      "solucion": "Aplicar insecticidas específicos y técnicas de manejo integrado de plagas."
+    },
+    "-Njd8dgZTsRrZxrliGSh": {
+      "imagen": "arana.png",
+      "nombre": "Araña Roja",
+      "nombre_cientifico": "Tetranychidae",
+      "solucion": "Utilizar acaricidas y mantener niveles adecuados de humedad."
+    },
+    "-Njd8iYpNASAkHTkH2mS": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Fruta",
+      "nombre_cientifico": "Noctuidae fructus",
+      "solucion": "Aplicar insecticidas y realizar podas sanitarias."
+    },
+    "-Njd8txwI9SjcbBVH0pf": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Planta",
+      "nombre_cientifico": "Noctuidae plantae",
+      "solucion": "Utilizar métodos biológicos y trampas para el control de orugas."
+    },
+    "-Njd9-eennGrk0RSNaWS": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Níspero",
+      "nombre_cientifico": "Noctuidae nisperus",
+      "solucion": "Aplicar insecticidas específicos y mantener la higiene en el cultivo."
+    },
+    "-Njd9ErfMzSq9_Q4lKBs": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Nuez",
+      "nombre_cientifico": "Tephritidae nucifera",
+      "solucion": "Utilizar trampas y aplicar insecticidas según las recomendaciones."
+    },
+    "-Njd9JBAcRqejQca7Uzm": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Palta",
+      "nombre_cientifico": "Lepidoptera persea",
+      "solucion": "Realizar monitoreo constante y aplicar insecticidas específicos."
+    },
+    "-Njd9PMBYteGq1edztx4": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Papa",
+      "nombre_cientifico": "Noctuidae patatae",
+      "solucion": "Implementar rotación de cultivos y utilizar insecticidas adecuados."
+    },
+    "-NjiYdZON3gDcCOp_sku": {
+      "imagen": "cochinilla.png",
+      "nombre": "Cochinillas",
+      "nombre_cientifico": "Coccoidea",
+      "solucion": "Eliminar manualmente, aplicar aceites hortícolas o utilizar trampas pegajosas."
+    },
+    "-NjiZE-lV6sowdDUvXY-": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Granado",
+      "nombre_cientifico": "Carpocapsa pomonella",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar feromonas para el control."
+    },
+    "-NjiZbds4m9AUuDF97LS": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Hinojo",
+      "nombre_cientifico": "Papilio polyxenes",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos o utilizar feromonas para el control."
+    },
+    "-Nji_1KrcEqosdDQSZT8": {
+      "imagen": "caracol.png",
+      "nombre": "Caracoles",
+      "nombre_cientifico": "Gastropoda",
+      "solucion": "Recoger manualmente, utilizar cebo para caracoles, crear barreras físicas alrededor de las plantas."
+    },
+    "-Nji_fZpYcJoODTsXrzu": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Lechuga",
+      "nombre_cientifico": "Noctuidae lettuca",
+      "solucion": "Eliminar manualmente, aplicar insecticidas biológicos, introducir enemigos naturales como avispas parasitoides."
+    },
+    "-Njia9UhZWwSFQ42YKT6": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Legumbre",
+      "nombre_cientifico": "Noctuidae leguminis",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos, utilizar métodos orgánicos como el control biológico con depredadores naturales."
+    },
+    "-Njib5ovr-oSUUEXWQBq": {
+      "imagen": "gusano.png",
+      "nombre": "Gusanos de la Raíz",
+      "nombre_cientifico": "Melolontha melolontha",
+      "solucion": "Implementar prácticas de rotación de cultivos, utilizar nematodos beneficiosos, aplicar insecticidas específicos según las recomendaciones."
+    },
+    "-NjibU311g-K1qpOYliH": {
+      "imagen": "gusano.png",
+      "nombre": "Nematodos",
+      "nombre_cientifico": "Nematoda",
+      "solucion": "Introducir nematodos beneficiosos, aplicar técnicas de solarización del suelo, utilizar variedades resistentes de cultivos."
+    },
+    "-NjibxRGzZ956TRRiBi9": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Membrillo",
+      "nombre_cientifico": "Cydia pomonella",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos, utilizar feromonas para el control."
+    },
+    "-NjicLs1SX2at39ropyP": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Mora",
+      "nombre_cientifico": "Grapholita funebrana",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos, utilizar feromonas para el control."
+    },
+    "-Njicjp0Ao63gZwwme5q": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Nuez",
+      "nombre_cientifico": "Tephritidae nucifera",
+      "solucion": "Utilizar trampas, aplicar insecticidas según las recomendaciones, realizar monitoreo constante."
+    },
+    "-Njid2iUv6NLsHyRKtZh": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Papaya",
+      "nombre_cientifico": "Tephritidae papayae",
+      "solucion": "Utilizar trampas, aplicar insecticidas específicos para el control de moscas, practicar la rotación de cultivos."
+    },
+    "-NjidRoDiY1mHn_dGiP8": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Pepino",
+      "nombre_cientifico": "Diaphania indica",
+      "solucion": "Eliminar manualmente, aplicar insecticidas orgánicos, utilizar parasitoides naturales."
+    },
+    "-NjidmS80A3GX7BHWv12": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Pera",
+      "nombre_cientifico": "Cydia pomonella",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos, utilizar feromonas para el control."
+    },
+    "-NjieC5Lea2BwAjv9hx6": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Pera",
+      "nombre_cientifico": "Rhagoletis pomonella",
+      "solucion": "Utilizar trampas de feromonas, mantener la higiene, alicar insecticidas específicos."
+    },
+    "-NjieWsT3S30OVDCU483": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga del Perejil",
+      "nombre_cientifico": "Papilio polyxenes",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos, utilizar cultivos resistentes."
+    },
+    "-NjienAosCx3DvElxE-L": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Pistacho",
+      "nombre_cientifico": "Cydia molesta",
+      "solucion": "Eliminar frutos afectados, aplicar insecticidas específicos, utilizar feromonas para el control."
+    },
+    "-Njif4lYoH65KRMnUURF": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Pomelo",
+      "nombre_cientifico": "Citrus mealybug",
+      "solucion": "Eliminar manualmente, aplicar insecticidas naturales, utilizar trampas específicas."
+    },
+    "-NjifLHw_Ssoz0lHqa-Q": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Poroto",
+      "nombre_cientifico": "Helicoverpa armigera",
+      "solucion": "Eliminar manualmente, aplicar insecticidas biológicos, utilizar cultivos resistentes."
+    },
+    "-NjifbYAiqAqtzvj1nGw": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Puerro",
+      "nombre_cientifico": "Acrolepiopsis assectella",
+      "solucion": "Eliminar manualmente, aplicar insecticidas orgánicos, utilizar trampas específicas."
+    },
+    "-NjifvOfUvSAYkmnJgqz": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga del Puerro",
+      "nombre_cientifico": "Allium porrum",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos, utilizar cultivos resistentes."
+    },
+    "-NjigKRutO6U-9OFLHGI": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Rábano",
+      "nombre_cientifico": "Phyllotreta spp.",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas específicos, utilizar cultivos resistentes."
+    },
+    "-Njigd282x5CYk9mE09l": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Remolacha",
+      "nombre_cientifico": "Agrotis spp.",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas específicos, utilizar cultivos resistentes."
+    },
+    "-Njigy6d3QiZf2P15OKx": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano del Repollo",
+      "nombre_cientifico": "Pieris brassicae",
+      "solucion": "Eliminar larvas manualmente, utilizar redes de protección, aplicar insecticidas específicos."
+    },
+    "-NjihIeMuwl6d-nmQD5d": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Rúcula",
+      "nombre_cientifico": "Pieris rapae",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos, utilizar cultivos resistentes."
+    },
+    "-NjihiKDiYKrmazXDWKF": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Sandía",
+      "nombre_cientifico": "Helicoverpa armigera",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos, utilizar cultivos resistentes."
+    },
+    "-NjiiFmLYoR_qSYGFJaC": {
+      "imagen": "oruga.png",
+      "nombre": "Oruga de la Soja",
+      "nombre_cientifico": "Anticarsia gemmatalis",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos, utilizar cultivos resistentes."
+    },
+    "-Njij-ufjGsk5NhDQku4": {
+      "imagen": "gorgojo.png",
+      "nombre": "Gorgojo del Trigo",
+      "nombre_cientifico": "Sitophilus granarius",
+      "solucion": "Eliminar manualmente, aplicar insecticidas naturales, utilizar trampas específicas."
+    },
+    "-NjijIckPpskATe2p3s5": {
+      "imagen": "oruga.png",
+      "nombre": "Orugas Cortadoras",
+      "nombre_cientifico": "Noctuidae",
+      "solucion": "Eliminar larvas manualmente, aplicar insecticidas biológicos, utilizar cultivos resistentes."
+    },
+    "-NjijZzEdZct-98Vh2aE": {
+      "imagen": "gusano.png",
+      "nombre": "Gusano de la Uva",
+      "nombre_cientifico": "Lobesia botrana",
+      "solucion": "Realizar monitoreo constante, aplicar insecticidas específicos, utilizar feromonas para el control."
+    },
+    "-Njijyabgw9dITLv4Gb4": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Uva",
+      "nombre_cientifico": "Drosophila suzukii",
+      "solucion": "Utilizar trampas de feromonas, mantener la higiene en la zona, aplicar insecticidas específicos."
+    },
+    "-NjikLQbzpR0YzZY9ZI2": {
+      "imagen": "polilla.png",
+      "nombre": "Polilla del Racimo",
+      "nombre_cientifico": "Lobesia botrana",
+      "solucion": "Utilizar feromonas para el monitoreo, aplicar insecticidas específicos en el momento adecuado, implementar prácticas culturales para reducir la población."
+    },
+    "-NjikdvivT5e5wlBwdc4": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Calabaza",
+      "nombre_cientifico": "Dacus cucurbitae",
+      "solucion": "Colocar trampas adhesivas amarillas, usar mallas antiinsectos para proteger las plantas, aplicar insecticidas específicos según las recomendaciones."
+    },
+    "-NjilHE9mPeavhz5VInr": {
+      "imagen": "mosca.png",
+      "nombre": "Mosca de la Sandía",
+      "nombre_cientifico": "Bactrocera cucurbitae",
+      "solucion": "Utilizar trampas de feromonas, mantener la higiene, aplicar insecticidas específicos."
+    }
+  },
+  "plant": {
+    "-NjixwcpDxiQLJbLdEn5": {
+      "estacion": "Primavera, verano y principios de otoño",
+      "imagen": "aceituna.png",
+      "kg_cosecha_km2": "300",
+      "luz": "Pleno sol",
+      "nombre": "Aceituna",
+      "nombre_cientifico": "Olea europaea",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd0N6xm3dT8DL4MPCs",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3Ik7cWhq2aGddYds",
+        "-Njd3PDVv8PtZy3k-FIB"
+      ],
+      "tipo": "Árbol",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njixz7gCxCAaWCW3xj7": {
+      "estacion": "Primavera y otoño",
+      "imagen": "acelga.png",
+      "kg_cosecha_km2": "1.500",
+      "luz": "Pleno sol",
+      "nombre": "Acelga",
+      "nombre_cientifico": "Beta vulgaris",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd3dMUf22ns9fTVjNm",
+        "-Njd3k-civoszmNlFu9V",
+        "-Njd3rzai-zghTqeFUiX"
+      ],
+      "tipo": "Hoja verde",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiy0sZmvFgH5K78TiC": {
+      "estacion": "Primavera y verano",
+      "imagen": "aji.png",
+      "kg_cosecha_km2": "600",
+      "luz": "Pleno sol",
+      "nombre": "Ají",
+      "nombre_cientifico": "Capsicum spp.",
+      "ph": "6.0 - 6.8",
+      "plagas": [
+        "-Njd498WJh3yiMxloRw1",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd0N6xm3dT8DL4MPCs"
+      ],
+      "tipo": "Fruta",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiy6GfkPqJPO7kzRnt": {
+      "estacion": "Otoño",
+      "imagen": "ajo.png",
+      "kg_cosecha_km2": "1250",
+      "luz": "Pleno sol",
+      "nombre": "Ajo",
+      "nombre_cientifico": "Allium sativum",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd4Oeq1JSHXdmbqR5M",
+        "-Njd4wWwXNWTZ7yiuUkE",
+        "-Njd5103uzFMcKzjnfJR"
+      ],
+      "tipo": "Bulbo",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiy8l2RB0N7DHLLW1r": {
+      "estacion": "Verano",
+      "imagen": "algodon.png",
+      "kg_cosecha_km2": "750",
+      "luz": "Pleno sol",
+      "nombre": "Algodón",
+      "nombre_cientifico": "Gossypium",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-Njd4Oeq1JSHXdmbqR5M",
+        "-Njd4wWwXNWTZ7yiuUkE",
+        "-Njd5103uzFMcKzjnfJR"
+      ],
+      "tipo": "Fibra",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiyBhcqIsDA3ASGHyL": {
+      "estacion": "Primavera",
+      "imagen": "almendra.png",
+      "kg_cosecha_km2": "300",
+      "luz": "Pleno sol",
+      "nombre": "Almendra",
+      "nombre_cientifico": "Prunus dulcis",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd0N6xm3dT8DL4MPCs",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3Ik7cWhq2aGddYds",
+        "-Njd3PDVv8PtZy3k-FIB"
+      ],
+      "tipo": "Fruto seco",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiyFEVbcIQzx9yCfyC": {
+      "estacion": "Primavera y otoño",
+      "imagen": "apio.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Sombra parcial",
+      "nombre": "Apio",
+      "nombre_cientifico": "Apium graveolens",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd3dMUf22ns9fTVjNm",
+        "-Njd3k-civoszmNlFu9V",
+        "-Njd3rzai-zghTqeFUiX"
+      ],
+      "tipo": "Tallo",
+      "tipo_terreno": "Húmedo y bien drenado"
+    },
+    "-NjiyIANJgvoHQljWmXB": {
+      "estacion": "Primavera y verano",
+      "imagen": "arandano.png",
+      "kg_cosecha_km2": "275",
+      "luz": "Pleno sol",
+      "nombre": "Arándano",
+      "nombre_cientifico": "Vaccinium",
+      "ph": "4.0 - 5.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd0N6xm3dT8DL4MPCs",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3Ik7cWhq2aGddYds",
+        "-Njd3PDVv8PtZy3k-FIB"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Ácido y bien drenado"
+    },
+    "-NjiyKuF8kGvA_5UShFi": {
+      "estacion": "Primavera y verano",
+      "imagen": "arroz.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Arroz",
+      "nombre_cientifico": "Oryza sativa",
+      "ph": "6.0 - 6.5",
+      "plagas": [
+        "-Njd6hGOUK6VcqFNqhf4",
+        "-Njd6m28hmNGVu0lGIVw",
+        "-Njd6AKbDc1AMwUBkOcM"
+      ],
+      "tipo": "Cereal",
+      "tipo_terreno": "Anegado"
+    },
+    "-Njiy_33LcmuQfqZIYHr": {
+      "estacion": "Primavera y verano",
+      "imagen": "avena.png",
+      "kg_cosecha_km2": "350",
+      "luz": "Pleno sol",
+      "nombre": "Avena",
+      "nombre_cientifico": "Avena sativa",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-Njd6hGOUK6VcqFNqhf4",
+        "-Njd6m28hmNGVu0lGIVw",
+        "-Njd6AKbDc1AMwUBkOcM"
+      ],
+      "tipo": "Cereal",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiybDJqOyQbuVEi2dD": {
+      "estacion": "Todo el año",
+      "imagen": "banana.png",
+      "kg_cosecha_km2": "2500",
+      "luz": "Pleno sol",
+      "nombre": "Banana",
+      "nombre_cientifico": "Musa",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3k-civoszmNlFu9V",
+        "-Njd3dMUf22ns9fTVjNm"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiydDB56Ps6F0XOT--": {
+      "estacion": "Verano y otoño",
+      "imagen": "batata.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Batata",
+      "nombre_cientifico": "Ipomoea batatas",
+      "ph": "5.5 - 6.5",
+      "plagas": [
+        "-Njd5AiuHx5MVBEz7_b1",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd3Ik7cWhq2aGddYds"
+      ],
+      "tipo": "Tubérculo",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiyfc33c1VhBDt1H5D": {
+      "estacion": "Verano y otoño",
+      "imagen": "berenjena.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Berenjena",
+      "nombre_cientifico": "Solanum melongena",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd0N6xm3dT8DL4MPCs"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiyhjwT-etEf1P_1A_": {
+      "estacion": "Otoño e invierno",
+      "imagen": "brocoli.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Brócoli",
+      "nombre_cientifico": "Brassica oleracea var. italica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5Vd0mRHmmQlZCbca",
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Hojas y flores",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiyjkpPzqzK7FYXRT9": {
+      "estacion": "Verano y otoño",
+      "imagen": "calabaza.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Calabaza",
+      "nombre_cientifico": "Cucurbita pepo",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd6r1-WK48E8rX3Sp-",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiyloBToJMpU5y2T9q": {
+      "estacion": "Todo el año",
+      "imagen": "cana-de-azucar.png",
+      "kg_cosecha_km2": "10000",
+      "luz": "Pleno sol",
+      "nombre": "Caña de Azúcar",
+      "nombre_cientifico": "Saccharum officinarum",
+      "ph": "5.5 - 6.5",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd4wWwXNWTZ7yiuUkE",
+        "-NjiYdZON3gDcCOp_sku"
+      ],
+      "tipo": "Césped",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiynj0va5gnRaslNdr": {
+      "estacion": "Primavera y verano",
+      "imagen": "cebada.png",
+      "kg_cosecha_km2": "2500",
+      "luz": "Pleno sol",
+      "nombre": "Cebada",
+      "nombre_cientifico": "Hordeum vulgare",
+      "ph": "5.5 - 7.5",
+      "plagas": [
+        "-Njd6hGOUK6VcqFNqhf4",
+        "-Njd6m28hmNGVu0lGIVw",
+        "-Njd6AKbDc1AMwUBkOcM"
+      ],
+      "tipo": "Grano",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiypcO9ZNITb22jWIy": {
+      "estacion": "Primavera y verano",
+      "imagen": "cebolla.png",
+      "kg_cosecha_km2": "1250",
+      "luz": "Pleno sol",
+      "nombre": "Cebolla",
+      "nombre_cientifico": "Allium cepa",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd4Oeq1JSHXdmbqR5M",
+        "-Njd4wWwXNWTZ7yiuUkE",
+        "-Njd5103uzFMcKzjnfJR"
+      ],
+      "tipo": "Bulbo",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjiyrSevq4Xf0Y3ANnh": {
+      "estacion": "Primavera",
+      "imagen": "cereza.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Cereza",
+      "nombre_cientifico": "Prunus avium",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd0N6xm3dT8DL4MPCs",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3Ik7cWhq2aGddYds",
+        "-Njd3PDVv8PtZy3k-FIB"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiz0h0hEPGg5YM-J-N": {
+      "estacion": "Primavera y verano",
+      "imagen": "chaucha.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Chaucha",
+      "nombre_cientifico": "Phaseolus vulgaris",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd498WJh3yiMxloRw1",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd0N6xm3dT8DL4MPCs"
+      ],
+      "tipo": "Legumbre",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiz4trWRBNsTnC2xQj": {
+      "estacion": "Primavera",
+      "imagen": "ciruela.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Ciruela",
+      "nombre_cientifico": "Prunus domestica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd0N6xm3dT8DL4MPCs",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3Ik7cWhq2aGddYds",
+        "-Njd3PDVv8PtZy3k-FIB"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njiz7d5PhTtu0HpyLKV": {
+      "estacion": "Otoño e invierno",
+      "imagen": "coliflor.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Coliflor",
+      "nombre_cientifico": "Brassica oleracea var. botrytis",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5Vd0mRHmmQlZCbca",
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Hojas y flores",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizFPTbJGKm-yliMvi": {
+      "estacion": "Primavera y verano",
+      "imagen": "datil.png",
+      "kg_cosecha_km2": "750",
+      "luz": "Pleno sol",
+      "nombre": "Dátil",
+      "nombre_cientifico": "Phoenix dactylifera",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd0N6xm3dT8DL4MPCs",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3Ik7cWhq2aGddYds",
+        "-Njd3PDVv8PtZy3k-FIB"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizHN_qMqgaq_v4m5-": {
+      "estacion": "Primavera",
+      "imagen": "durazno.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Durazno",
+      "nombre_cientifico": "Prunus persica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd5LdfWfbQPRgem9MP",
+        "-Njd1FXatiuFW06eKphn",
+        "-Njd3Ik7cWhq2aGddYds",
+        "-Njd3PDVv8PtZy3k-FIB"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizJdBpOwjr64ax1at": {
+      "estacion": "Primavera",
+      "imagen": "esparrago.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Espárrago",
+      "nombre_cientifico": "Asparagus officinalis",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd7SyatuTvpvL6mzp_",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Tallo",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizLdoEKqYFhjPHWLb": {
+      "estacion": "Primavera y otoño",
+      "imagen": "espinaca.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Sombra parcial",
+      "nombre": "Espinaca",
+      "nombre_cientifico": "Spinacia oleracea",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd5AiuHx5MVBEz7_b1",
+        "-Njd7WmrVJDUCGUm3Sli",
+        "-Njd74pbIkmc0_PT87Bv"
+      ],
+      "tipo": "Hojas",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizOZvXNPebP2QCt0v": {
+      "estacion": "Verano",
+      "imagen": "frambuesa.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Frambuesa",
+      "nombre_cientifico": "Rubus idaeus",
+      "ph": "5.5 - 6.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd8iYpNASAkHTkH2mS",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizQu3PdKXXrCohqSI": {
+      "estacion": "Primavera y verano",
+      "imagen": "frutilla.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Frutilla",
+      "nombre_cientifico": "Fragaria x ananassa",
+      "ph": "5.5 - 6.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd8iYpNASAkHTkH2mS",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizT8QzYJIeP3EIi-j": {
+      "estacion": "Primavera y verano",
+      "imagen": "garbanzo.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Garbanzo",
+      "nombre_cientifico": "Cicer arietinum",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd5AiuHx5MVBEz7_b1",
+        "-Njd8CC4dYMqC3Mk8inm"
+      ],
+      "tipo": "Legumbre",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizVA38t1uZRvl9qso": {
+      "estacion": "Verano",
+      "imagen": "girasol.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Girasol",
+      "nombre_cientifico": "Helianthus annuus",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd6veUZqdPMsm_4yrc",
+        "-Njd7-PjkQdPa4gQsyw2",
+        "-Njd5bHW_axDIJ_Q3LXb"
+      ],
+      "tipo": "Semillas",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizXVohrfPm4F1bHXl": {
+      "estacion": "Primavera",
+      "imagen": "granada.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Granada",
+      "nombre_cientifico": "Punica granatum",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-NjiZE-lV6sowdDUvXY-",
+        "-Njd1FXatiuFW06eKphn"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizZNdQVoa_0q8VaTp": {
+      "estacion": "Verano",
+      "imagen": "higo.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Higo",
+      "nombre_cientifico": "Ficus carica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd8RQS8Fs5LAT4Tx5u",
+        "-Njd8ZL35QjSpryp8DP1",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizbCWUPn_noTlJGlJ": {
+      "estacion": "Primavera y verano",
+      "imagen": "hinojo.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Hinojo",
+      "nombre_cientifico": "Foeniculum vulgare",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-NjiZbds4m9AUuDF97LS",
+        "-Njd6r1-WK48E8rX3Sp-"
+      ],
+      "tipo": "Hojas y tallos",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njizk-WbYVvA22n_Pq7": {
+      "estacion": "Todo el año",
+      "imagen": "hoja-de-te.png",
+      "kg_cosecha_km2": "1250",
+      "luz": "Sombra parcial",
+      "nombre": "Hoja de Té",
+      "nombre_cientifico": "Camellia sinensis",
+      "ph": "5.5 - 6.5",
+      "plagas": [
+        "-Njd5AiuHx5MVBEz7_b1",
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd6veUZqdPMsm_4yrc"
+      ],
+      "tipo": "Hojas",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizmvtVcfyP9wT7Pys": {
+      "estacion": "Primavera y verano",
+      "imagen": "kiwi.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Kiwi",
+      "nombre_cientifico": "Actinidia deliciosa",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd5AiuHx5MVBEz7_b1",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njizpkr4C7kvWT-T_Q6": {
+      "estacion": "Primavera y otoño",
+      "imagen": "lechuga.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Sombra parcial",
+      "nombre": "Lechuga",
+      "nombre_cientifico": "Lactuca sativa",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Nji_fZpYcJoODTsXrzu",
+        "-Nji_1KrcEqosdDQSZT8",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Hojas",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizsDeHi3QXr-kokfB": {
+      "estacion": "Primavera y verano",
+      "imagen": "lenteja.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Lenteja",
+      "nombre_cientifico": "Lens culinaris",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njia9UhZWwSFQ42YKT6",
+        "-Njd6veUZqdPMsm_4yrc"
+      ],
+      "tipo": "Legumbre",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizubMKEWEt61G4Zl8": {
+      "estacion": "Primavera y verano",
+      "imagen": "lima.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Lima",
+      "nombre_cientifico": "Citrus aurantiifolia",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd82Sq6ca0X9_1-haI",
+        "-Njd82Sq6ca0X9_1-haI"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njizww6YhZqFbuC3iEw": {
+      "estacion": "Primavera y verano",
+      "imagen": "limon.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Limón",
+      "nombre_cientifico": "Citrus limon",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd82Sq6ca0X9_1-haI",
+        "-Njd82Sq6ca0X9_1-haI"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-NjizzaT4Zmu1sy_KxI0": {
+      "estacion": "Primavera y verano",
+      "imagen": "lino.png",
+      "kg_cosecha_km2": "250",
+      "luz": "Pleno sol",
+      "nombre": "Lino",
+      "nombre_cientifico": "Linum usitatissimum",
+      "ph": "6.0 - 7.0",
+      "plagas": [
+        "-Njd7ahLnM7uxLa2G-wj",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd8txwI9SjcbBVH0pf"
+      ],
+      "tipo": "Semillas",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-0dNP2D_N5Yeu9eq": {
+      "estacion": "Verano",
+      "imagen": "maiz.png",
+      "kg_cosecha_km2": "2500",
+      "luz": "Pleno sol",
+      "nombre": "Maíz",
+      "nombre_cientifico": "Zea mays",
+      "ph": "5.8 - 7.0",
+      "plagas": [
+        "-Njd7gVWEXcHjOtXbcVH",
+        "-Njd7q8ibOKKfUl9cHJr",
+        "-Njd5GkABb5dx6aPbmcP"
+      ],
+      "tipo": "Grano",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-2xzvCp9emLbi9Hv": {
+      "estacion": "Invierno",
+      "imagen": "mandarina.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Mandarina",
+      "nombre_cientifico": "Citrus reticulata",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd82Sq6ca0X9_1-haI",
+        "-Njd7tgrBtuH6yqDRKXL",
+        "-Njd5GkABb5dx6aPbmcP"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-5ixzDHv70ctgTIv": {
+      "estacion": "Primavera y verano",
+      "imagen": "mandioca.png",
+      "kg_cosecha_km2": "1250",
+      "luz": "Pleno sol",
+      "nombre": "Mandioca",
+      "nombre_cientifico": "Manihot esculenta",
+      "ph": "5.5 - 6.5",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njib5ovr-oSUUEXWQBq",
+        "-NjibU311g-K1qpOYliH"
+      ],
+      "tipo": "Raíz",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-8Cf3bMBOrId3dMV": {
+      "estacion": "Primavera y verano",
+      "imagen": "mango.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Mango",
+      "nombre_cientifico": "Mangifera indica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd0DfSUHenB1Z5Xl3Y",
+        "-Njd87Ex-s0JxZvrtJY0",
+        "-Njd5GkABb5dx6aPbmcP"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-AOYWZTr5QvozOQ6": {
+      "estacion": "Primavera y verano",
+      "imagen": "mani.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Maní",
+      "nombre_cientifico": "Arachis hypogaea",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-Njd8CC4dYMqC3Mk8inm",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd74pbIkmc0_PT87Bv"
+      ],
+      "tipo": "Legumbre",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-CFQAT3fqFGRdNqD": {
+      "estacion": "Otoño",
+      "imagen": "manzana.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Manzana",
+      "nombre_cientifico": "Malus domestica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd7yFSbx-GbZf079-Y",
+        "-Njd6veUZqdPMsm_4yrc",
+        "-Njd7tgrBtuH6yqDRKXL"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-EynGmx9cswMWSgB": {
+      "estacion": "Otoño",
+      "imagen": "manzana-verde.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Manzana Verde",
+      "nombre_cientifico": "Malus domestica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd8dgZTsRrZxrliGSh",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd7yFSbx-GbZf079-Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-HDAS6pNYhrthDcb": {
+      "estacion": "Verano",
+      "imagen": "melon.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Melón",
+      "nombre_cientifico": "Cucumis melo",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd8iYpNASAkHTkH2mS",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-JbQhPI4LXsUkBXb": {
+      "estacion": "Otoño",
+      "imagen": "membrillo.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Membrillo",
+      "nombre_cientifico": "Cydonia oblonga",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjibxRGzZ956TRRiBi9",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-LilePU7L1FrhRjM": {
+      "estacion": "Verano",
+      "imagen": "mora.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Mora",
+      "nombre_cientifico": "Rubus fruticosus",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjicLs1SX2at39ropyP",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-UUGdNPxSSIllnCR": {
+      "estacion": "Primavera y verano",
+      "imagen": "morron.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Morrón",
+      "nombre_cientifico": "Capsicum annuum",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd5AiuHx5MVBEz7_b1",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-WT-vIHoC-DOtQWQ": {
+      "estacion": "Invierno",
+      "imagen": "naranja.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Naranja",
+      "nombre_cientifico": "Citrus sinensis",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd82Sq6ca0X9_1-haI",
+        "-Njd7tgrBtuH6yqDRKXL",
+        "-Njd5GkABb5dx6aPbmcP"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-ZAsCVWuwX7sNJom": {
+      "estacion": "Invierno y primavera",
+      "imagen": "nispero.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Níspero",
+      "nombre_cientifico": "Eriobotrya japonica",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd9-eennGrk0RSNaWS",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-aRjegz1utii6ACK": {
+      "estacion": "Otoño",
+      "imagen": "nuez.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Nuez",
+      "nombre_cientifico": "Juglans regia",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njicjp0Ao63gZwwme5q",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd9ErfMzSq9_Q4lKBs"
+      ],
+      "tipo": "Fruto seco",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-dJjtiaDooJdAqcg": {
+      "estacion": "Primavera y verano",
+      "imagen": "palta.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Palta",
+      "nombre_cientifico": "Persea americana",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd9JBAcRqejQca7Uzm",
+        "-Njd0DfSUHenB1Z5Xl3Y"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-fi8YQWCZ_WtvBRi": {
+      "estacion": "Primavera y verano",
+      "imagen": "papa.png",
+      "kg_cosecha_km2": "1250",
+      "luz": "Pleno sol",
+      "nombre": "Papa",
+      "nombre_cientifico": "Solanum tuberosum",
+      "ph": "4.8 - 6.0",
+      "plagas": [
+        "-Njd9PMBYteGq1edztx4",
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njd6r1-WK48E8rX3Sp-"
+      ],
+      "tipo": "Tubérculo",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-hWqFdl7SK49XZtp": {
+      "estacion": "Verano",
+      "imagen": "papaya.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Papaya",
+      "nombre_cientifico": "Carica papaya",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd9PMBYteGq1edztx4ya",
+        "-Njid2iUv6NLsHyRKtZh"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-jI5A6mx3B1qIHVy": {
+      "estacion": "Primavera y verano",
+      "imagen": "pepino.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Pepino",
+      "nombre_cientifico": "Cucumis sativus",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-NjidRoDiY1mHn_dGiP8",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-lL4fZNnL0-fqGd3": {
+      "estacion": "Otoño",
+      "imagen": "pera.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Pera",
+      "nombre_cientifico": "Pyrus communis",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjidmS80A3GX7BHWv12",
+        "-NjieC5Lea2BwAjv9hx6",
+        "-Njd5GkABb5dx6aPbmcP"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-qsI23NSygLpXSZV": {
+      "estacion": "Primavera y otoño",
+      "imagen": "perejil.png",
+      "kg_cosecha_km2": "250",
+      "luz": "Sombra parcial",
+      "nombre": "Perejil",
+      "nombre_cientifico": "Petroselinum crispum",
+      "ph": "5.5 - 7.0",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-NjieWsT3S30OVDCU483",
+        "-Njd4FjjOu9itKWULk1O"
+      ],
+      "tipo": "Hojas",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-u2AkAAXsiBew6X1": {
+      "estacion": "Otoño",
+      "imagen": "pistacho.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Pistacho",
+      "nombre_cientifico": "Pistacia vera",
+      "ph": "7.0 - 8.0",
+      "plagas": [
+        "-NjienAosCx3DvElxE-L",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd6r1-WK48E8rX3Sp-"
+      ],
+      "tipo": "Fruto seco",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-x5IdPPs6KD30V3v": {
+      "estacion": "Invierno y primavera",
+      "imagen": "pomelo.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Pleno sol",
+      "nombre": "Pomelo",
+      "nombre_cientifico": "Citrus paradisi",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njif4lYoH65KRMnUURF",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd82Sq6ca0X9_1-haI"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj-zGRnSTL9qY8ky4K": {
+      "estacion": "Primavera y verano",
+      "imagen": "poroto.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Poroto",
+      "nombre_cientifico": "Phaseolus vulgaris",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjifLHw_Ssoz0lHqa-Q",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Legumbre",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj00nJ8ja4C4C84RG0": {
+      "estacion": "Primavera y otoño",
+      "imagen": "puerro.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Sombra parcial",
+      "nombre": "Puerro",
+      "nombre_cientifico": "Allium ampeloprasum",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjifbYAiqAqtzvj1nGw",
+        "-NjifvOfUvSAYkmnJgqz",
+        "-Njd4FjjOu9itKWULk1O"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj03PB2bbFn0ozuFRp": {
+      "estacion": "Primavera y otoño",
+      "imagen": "rabano.png",
+      "kg_cosecha_km2": "500",
+      "luz": "Pleno sol",
+      "nombre": "Rábano",
+      "nombre_cientifico": "Raphanus sativus",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjigKRutO6U-9OFLHGI",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd5GkABb5dx6aPbmcP"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj06jWxI-nI6j37-T2": {
+      "estacion": "Primavera y otoño",
+      "imagen": "remolacha.png",
+      "kg_cosecha_km2": "600",
+      "luz": "Pleno sol",
+      "nombre": "Remolacha",
+      "nombre_cientifico": "Beta vulgaris",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njigd282x5CYk9mE09l",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd5GkABb5dx6aPbmcP"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj08d8CE-YYHujJ2Rt": {
+      "estacion": "Primavera y otoño",
+      "imagen": "repollo.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Repollo",
+      "nombre_cientifico": "Brassica oleracea",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njigy6d3QiZf2P15OKx",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0Bj0q7q11nGG0Rpt": {
+      "estacion": "Primavera y otoño",
+      "imagen": "repollo-rojo.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Repollo Rojo",
+      "nombre_cientifico": "Brassica oleracea",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njigy6d3QiZf2P15OKx",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0De-G7xCuZAON-8o": {
+      "estacion": "Primavera y otoño",
+      "imagen": "rucula.png",
+      "kg_cosecha_km2": "250",
+      "luz": "Pleno sol",
+      "nombre": "Rúcula",
+      "nombre_cientifico": "Eruca vesicaria sativa",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-NjihIeMuwl6d-nmQD5d",
+        "-Njd4FjjOu9itKWULk1O"
+      ],
+      "tipo": "Hojas",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0G2lZfLDKE-hTqlf": {
+      "estacion": "Verano",
+      "imagen": "sandia.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Sandía",
+      "nombre_cientifico": "Citrullus lanatus",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjilHE9mPeavhz5VInr",
+        "-Njd5AiuHx5MVBEz7_b1",
+        "-NjihiKDiYKrmazXDWKF"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0IK8UTMhGe1dKIjn": {
+      "estacion": "Verano",
+      "imagen": "soja.png",
+      "kg_cosecha_km2": "1250",
+      "luz": "Pleno sol",
+      "nombre": "Soja",
+      "nombre_cientifico": "Glycine max",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjiiFmLYoR_qSYGFJaC",
+        "-Njd5GkABb5dx6aPbmcP",
+        "-Njd5AiuHx5MVBEz7_b1"
+      ],
+      "tipo": "Legumbre",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0KHVotO-FndMMWO5": {
+      "estacion": "Primavera y verano",
+      "imagen": "tomate.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Tomate",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd8dgZTsRrZxrliGSh",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd498WJh3yiMxloRw1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0MzMC4oKnomCBR8n": {
+      "estacion": "Primavera y verano",
+      "imagen": "tomate-cherry.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Tomate Cherry",
+      "nombre_cientifico": "Solanum lycopersicum var. cerasiforme",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd8dgZTsRrZxrliGSh",
+        "-Njd4FjjOu9itKWULk1O",
+        "-Njd498WJh3yiMxloRw1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0POjTdY3ZXOyYjuw": {
+      "estacion": "Primavera y verano",
+      "imagen": "trigo.png",
+      "kg_cosecha_km2": "1750",
+      "luz": "Pleno sol",
+      "nombre": "Trigo",
+      "nombre_cientifico": "Triticum aestivum",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd5bHW_axDIJ_Q3LXb",
+        "-Njij-ufjGsk5NhDQku4",
+        "-NjijIckPpskATe2p3s5"
+      ],
+      "tipo": "Cereal",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0ReLbj90vi0EgvwI": {
+      "estacion": "Verano",
+      "imagen": "uva.png",
+      "kg_cosecha_km2": "1000",
+      "luz": "Pleno sol",
+      "nombre": "Uva",
+      "nombre_cientifico": "Vitis vinifera",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd3k-civoszmNlFu9V",
+        "-Njd3dMUf22ns9fTVjNm",
+        "-NjijZzEdZct-98Vh2aE",
+        "-Njijyabgw9dITLv4Gb4"
+      ],
+      "tipo": "Fruto",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0_ni08OwqzLqNztH": {
+      "estacion": "Todo el año",
+      "imagen": "yerba.png",
+      "kg_cosecha_km2": "400",
+      "luz": "Sombra parcial",
+      "nombre": "Yerba Mate",
+      "nombre_cientifico": "Ilex paraguariensis",
+      "ph": "5.5 - 6.5",
+      "plagas": [
+        "-Njd5GkABb5dx6aPbmcP",
+        "-NjikLQbzpR0YzZY9ZI2",
+        "-NjiYdZON3gDcCOp_sku"
+      ],
+      "tipo": "Infusión",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0ejBAjoEtZ5RZsuF": {
+      "estacion": "Otoño e invierno",
+      "imagen": "zanahoria.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Zanahoria",
+      "nombre_cientifico": "Daucus carota",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-Njd4Oeq1JSHXdmbqR5M",
+        "-Njd8dgZTsRrZxrliGSh",
+        "-Njd498WJh3yiMxloRw1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0hURzfKR4n5Aw4S6": {
+      "estacion": "Primavera y verano",
+      "imagen": "zapallito.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Zapallito",
+      "nombre_cientifico": "Cucurbita pepo",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjikdvivT5e5wlBwdc4",
+        "-Njd8dgZTsRrZxrliGSh",
+        "-Njd498WJh3yiMxloRw1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0jzvc32tDOzDEps0": {
+      "estacion": "Primavera y verano",
+      "imagen": "zapallo-anco.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Zapallo Anco",
+      "nombre_cientifico": "Cucurbita moschata",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjikdvivT5e5wlBwdc4",
+        "-Njd8dgZTsRrZxrliGSh",
+        "-Njd498WJh3yiMxloRw1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    },
+    "-Njj0pRnIddXzvS6OqEp": {
+      "estacion": "Primavera y verano",
+      "imagen": "zucchini.png",
+      "kg_cosecha_km2": "700",
+      "luz": "Pleno sol",
+      "nombre": "Zapallito Zucchini",
+      "nombre_cientifico": "Cucurbita pepo",
+      "ph": "6.0 - 7.5",
+      "plagas": [
+        "-NjikdvivT5e5wlBwdc4",
+        "-Njd8dgZTsRrZxrliGSh",
+        "-Njd498WJh3yiMxloRw1"
+      ],
+      "tipo": "Hortaliza",
+      "tipo_terreno": "Bien drenado"
+    }
+  },
+  "token": {
+    "-Nkbku3WoodkAFeuJcrX": {
+      "email": "david.pineiro@davinci.edu.ar",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRhdmlkLnBpbmVpcm9AZGF2aW5jaS5lZHUuYXIiLCJpYXQiOjE3MDE0NzQxODF9.UWr5q29T52ZdfCVLe8Co4R-5D-iMmnghKj1pBb7yxVI"
+    }
+  }
+}

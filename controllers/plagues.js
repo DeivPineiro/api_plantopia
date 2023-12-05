@@ -56,14 +56,6 @@ function deletePlagueById(req, res) {
         })
 }
 
-export {
-    getPlagues,
-    getPlagueByID,
-    createPlague,
-    updatePlagueByID,
-    deletePlagueById
-
-}
 export default {
     getPlagues,
     getPlagueByID,

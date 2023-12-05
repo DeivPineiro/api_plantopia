@@ -1,100 +1,98 @@
 import admin from 'firebase-admin';
 
 async function getPlants() {
-  const snapshot = await admin.database().ref('plant').once('value');
-  const allPlants = snapshot.val();
+    const snapshot = await admin.database().ref('plant').once('value');
+    const allPlants = snapshot.val();
 
-  if (!allPlants) {
-    return [];
-  }
-
-  const plantsWithPlagues = Object.entries(allPlants || {}).map(async ([key, plant]) => {
-    if (plant.plagueIds) {
-      plant.plagues = await getPlaguesByIds(plant.plagueIds);
+    if (!allPlants) {
+        return [];
     }
-    return {
-      id: key,
-      ...plant,
-    };
-  });
 
-  return Promise.all(plantsWithPlagues);
+    const plantsWithPlagues = Object.entries(allPlants || {}).map(async ([key, plant]) => {
+        if (plant.plagueIds) {
+            plant.plagues = await getPlaguesByIds(plant.plagueIds);
+        }
+        return {
+            id: key,
+            ...plant,
+        };
+    });
+
+    return Promise.all(plantsWithPlagues);
 }
 
+async function getPlaguesByIds(plagueIds) {
+    const plagasPromises = plagueIds.map(async plagueId => {
+        const snapshot = await admin.database().ref('plague').child(plagueId).once('value');
+        return {
+            id: key,
+            ...snapshot.val()
+        };
+    });
 
-async function getPlaguesByIds(plagueIds) {  
-  const plagasPromises = plagueIds.map(async plagueId => {
-    const snapshot = await admin.database().ref('plague').child(plagueId).once('value');
-    return snapshot.val();
-  });
-
-  return Promise.all(plagasPromises);
+    return Promise.all(plagasPromises);
 }
-
 
 async function getPlantById(id) {
-  try {
-    const snapshot = await admin.database().ref('plant').child(id).once('value');
-    return snapshot.val();
-  } catch (error) {
-    console.error('Error al obtener la planta por ID:', error);
-    throw error; 
-  }
+    try {
+        const snapshot = await admin.database().ref('plant').child(id).once('value');
+        const data = snapshot.val();
+        return {
+            id: snapshot.key,
+            ...data
+        };
+    } catch (error) {
+        console.error('Error al obtener la planta por ID:', error);
+        throw error;
+    }
 }
 
 async function createPlant(plant) {
-  const { plagueIds, ...plantData } = plant;
-  const plantRef = await admin.database().ref('plant').push(plantData);
+    const { plagueIds, ...plantData } = plant;
+    const plantRef = await admin.database().ref('plant').push(plantData);
 
-  if (plagueIds && plagueIds.length > 0) {
-    await plantRef.update({ plagueIds });
-  }
+    if (plagueIds && plagueIds.length > 0) {
+        await plantRef.update({ plagueIds });
+    }
 
-  return ("se cargó correctamente: ", plantData);
+    return ("se cargó correctamente: ", plantData);
 }
 
 async function updatePlantByID(id, plant) {
-  const { plagueIds, ...plantData } = plant;
-  const plantRef = admin.database().ref(`plant/${id}`);
+    const { plagueIds, ...plantData } = plant;
+    const plantRef = admin.database().ref(`plant/${id}`);
 
-  try {
-    await plantRef.update(plantData);
+    try {
+        await plantRef.update(plantData);
 
-    if (plagueIds && plagueIds.length > 0) {
-      await plantRef.update({ plagueIds });
+        if (plagueIds && plagueIds.length > 0) {
+            await plantRef.update({ plagueIds });
+        }
+
+        return { success: true, message: 'Planta actualizada exitosamente' };
+    } catch (error) {
+        console.error('Error al actualizar la planta:', error);
+        return { success: false, message: 'Error al actualizar la planta' };
     }
-
-    return { success: true, message: 'Planta actualizada exitosamente' };
-  } catch (error) {
-    console.error('Error al actualizar la planta:', error);
-    return { success: false, message: 'Error al actualizar la planta' };
-  }
 }
 
-async function deletePlantById(id) {// Borra logiamente un game con campo deleted = true
-  const plantRef = admin.database().ref(`plant/${id}`);
-  try {
-    await plantRef.update({ deleted: true });
-    return { success: true, message: 'Planta marcada como eliminada' };
-  } catch (error) {
-    console.error('Error al realizar el delete lógico de la planta:', error);
-    return { success: false, message: 'Error al realizar el delete lógico de la planta' };
-  }
+async function deletePlantById(id) {
+    const plantRef = admin.database().ref(`plant/${id}`);
+    try {
+        await plantRef.update({ deleted: true });
+        return { success: true, message: 'Planta marcada como eliminada' };
+    } catch (error) {
+        console.error('Error al realizar el delete lógico de la planta:', error);
+        return { success: false, message: 'Error al realizar el delete lógico de la planta' };
+    }
 }
 
-export {
-  getPlantById,
-  getPlants,
-  createPlant,
-  updatePlantByID,
-  deletePlantById
-}
 export default {
-  getPlantById,
-  getPlants,
-  createPlant,
-  updatePlantByID,
-  deletePlantById
+    getPlantById,
+    getPlants,
+    createPlant,
+    updatePlantByID,
+    deletePlantById
 }
 
 //Ok

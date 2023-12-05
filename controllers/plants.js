@@ -18,7 +18,7 @@ function getPlantByID(req, res) {
                 res.status(err.code).json({ msg: err.msg });
             }
             else {
-                res.status(500).json({ msg: "No se pudo guardar en el archivo" });
+                res.status(500).json({ msg: "No se pudo traer en el archivo" });
             }
         });
 }
@@ -56,14 +56,6 @@ function deletePlantById(req, res) {
         })
 }
 
-export {
-    getPlants,
-    getPlantByID,
-    createPlant,
-    updatePlantByID,
-    deletePlantById
-
-}
 export default {
     getPlantByID,
     getPlants,
