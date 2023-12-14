@@ -7,6 +7,13 @@ function getPlagues(req, res) {
         });
 }
 
+function getAdminPlagues(req, res) {
+    PlaguesServices.getAdminPlagues(req.query)
+        .then(function (plagues) {
+            res.status(200).json(plagues);
+        });
+}
+
 function getPlagueByID(req, res) {
     const { idPlague } = req.params;
     PlaguesServices.getPlagueById(idPlague)
@@ -61,7 +68,8 @@ export default {
     getPlagueByID,
     createPlague,
     updatePlagueByID,
-    deletePlagueById
+    deletePlagueById,
+    getAdminPlagues
 }
 
 //OK

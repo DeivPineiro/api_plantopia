@@ -7,6 +7,13 @@ function getPlants(req, res) {
         });
 }
 
+function getAdminPlants(req, res) {
+    PlantsServices.getAdminPlants(req.query)
+        .then(function (plants) {
+            res.status(200).json(plants);
+        });
+}
+
 function getPlantByID(req, res) {
     const { idPlant } = req.params;
     PlantsServices.getPlantById(idPlant)
@@ -61,7 +68,8 @@ export default {
     getPlants,
     createPlant,
     updatePlantByID,
-    deletePlantById
+    deletePlantById,
+    getAdminPlants
 }
 
 //OK

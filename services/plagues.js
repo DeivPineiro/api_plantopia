@@ -8,11 +8,31 @@ async function getPlagues() {
         return [];
     }
 
-    const filteredPlagues = Object.entries(allPlagues || {}).map(([key, plague]) => ({
+    const filteredPlagues = Object.entries(allPlagues || {})
+    .filter(([key, plague]) => plague.deleted !== true )  
+    .map(([key, plague]) => ({
         id: key,
         ...plague
     }));
-    // .filter(plague => !plague || plague.deleted !== true)
+   
+
+    return filteredPlagues;
+}
+
+async function getAdminPlagues() {
+    const snapshot = await admin.database().ref('plague').once('value');
+    const allPlagues = snapshot.val();
+
+    if (!allPlagues) {
+        return [];
+    }
+
+    const filteredPlagues = Object.entries(allPlagues || {})
+    .map(([key, plague]) => ({
+        id: key,
+        ...plague
+    }));
+   
 
     return filteredPlagues;
 }
@@ -60,7 +80,8 @@ export default {
     getPlagues,
     createPlague,
     updatePlagueByID,
-    deletePlagueById
+    deletePlagueById,
+    getAdminPlagues
 }
 
 //Ok

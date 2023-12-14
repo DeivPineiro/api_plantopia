@@ -8,6 +8,30 @@ async function getPlants() {
         return [];
     }
 
+    const plantsWithPlagues = Object.entries(allPlants || {})
+        .filter(([key, plant]) => plant.deleted !== true )  
+        .map(async ([key, plant]) => {
+            if (plant.plagueIds) {
+                plant.plagues = await getPlaguesByIds(plant.plagueIds);
+            }
+            return {
+                id: key,
+                ...plant,
+            };
+        });
+
+    return Promise.all(plantsWithPlagues);
+}
+
+
+async function getAdminPlants() {
+    const snapshot = await admin.database().ref('plant').once('value');
+    const allPlants = snapshot.val();
+
+    if (!allPlants) {
+        return [];
+    }
+
     const plantsWithPlagues = Object.entries(allPlants || {}).map(async ([key, plant]) => {
         if (plant.plagueIds) {
             plant.plagues = await getPlaguesByIds(plant.plagueIds);
@@ -90,6 +114,7 @@ async function deletePlantById(id) {
 export default {
     getPlantById,
     getPlants,
+    getAdminPlants,
     createPlant,
     updatePlantByID,
     deletePlantById

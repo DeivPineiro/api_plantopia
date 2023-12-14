@@ -6,6 +6,7 @@ import { verifySession } from '../middlewares/account.js';
 const route = express.Router();
 
 route.get('/plagues', plaguesController.getPlagues); 
+route.get('/admin/plagues', plaguesController.getAdminPlagues); 
 route.post('/plagues',[validateCreatePlague,verifySession], plaguesController.createPlague); 
 
 route.get('/plagues/:idPlague', plaguesController.getPlagueByID); 
