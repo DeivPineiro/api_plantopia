@@ -121,3 +121,8 @@ export default {
 }
 
 //Ok
+
+
+// Ionic
+// GANADOR=> NativeScriptVue
+// Vercel => express en vercel 
