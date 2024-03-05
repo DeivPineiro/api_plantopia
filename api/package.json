@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Trabajo practico para el profe",
   "type": "module",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "server": "node server.js",
+    "server": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "node index.js",
     "build": "echo \"No build steps necessary\""
   },
   "author": "David Piñeiro",
