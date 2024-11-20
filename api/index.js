@@ -38,8 +38,7 @@ app.use(PlantRoute);
 app.use(PlagueRoute);
 app.use('/api', AccountRoute);
 
-app.listen(port, () => {
-    // console.clear();
+app.listen(port, () => {    
     console.log(chalk.green(`API Server `) + chalk.bgGreenBright(`//`) + chalk.bgBlue(` ##==>`) + chalk.red(` http://localhost:${port} `) + chalk.bgBlue(`<==## `) + chalk.bgGreenBright(`//`));
     console.log(chalk.yellow(' /\\_/\\'));
     console.log(chalk.yellow('( o.o )'));
