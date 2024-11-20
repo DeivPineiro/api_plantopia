@@ -6,7 +6,6 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import admin from 'firebase-admin';
 import cors from 'cors';
-// import serviceAccount from './plantopia-157e3-firebase-adminsdk-907g7-486a0ef523.json' assert { type: 'json' };
 import chalk from 'chalk';
 
 dotenv.config();
