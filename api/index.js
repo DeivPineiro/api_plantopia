@@ -23,7 +23,7 @@ admin.initializeApp({
         client_x509_cert_url: process.env.FIREBASE_CLIENT_X509_CERT_URL,
         universe_domain: process.env.FIREBASE_UNIVERSE_DOMAIN
     }),
-    databaseURL: process.env.FIREBASE_DATABASE_URL
+    databaseURL: "https://plantopia-157e3-default-rtdb.firebaseio.com/"
 });
 
 
