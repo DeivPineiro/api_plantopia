@@ -26,6 +26,7 @@ admin.initializeApp({
     databaseURL: "https://plantopia-157e3-default-rtdb.firebaseio.com/"
 });
 
+console.log("Clave: " + process.env.FIREBASE_PRIVATE_KEY);
 
 const app = express();
 
